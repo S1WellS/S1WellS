@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estudando front-end
 - 🌱 Estudando Html, CSS, JS
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 
 <div>
   <a href="https://github.com/SamwellSh">
